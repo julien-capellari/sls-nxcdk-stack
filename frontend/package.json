@@ -1,5 +1,5 @@
 {
-  "name": "@cdktf-stack/frontend",
+  "name": "@nxcdk-stack/frontend",
   "version": "0.1.0",
   "private": true,
   "scripts": {

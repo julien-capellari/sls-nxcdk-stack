@@ -1,5 +1,5 @@
 {
-  "name": "@cdktf-stack/backend",
+  "name": "@nxcdk-stack/backend",
   "private": true,
   "version": "1.0.0",
   "description": "Nest TypeScript starter repository",
@@ -28,6 +28,7 @@
     "@nestjs/platform-express": "^9.0.0",
     "@vendia/serverless-express": "^4.10.1",
     "aws-xray-sdk-core": "^3.3.7",
+    "cache-manager": "^5.0.1",
     "dotenv": "^16.0.2",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
